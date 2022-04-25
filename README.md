@@ -12,3 +12,17 @@ The dataset is publicly available [here](https://isip.piconepress.com/projects/t
 * [Pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/stable/index.html)
 * [ast](https://docs.python.org/3/library/ast.html)
+
+## Citation
+If you find this work useful, please cite
+
+```
+@INPROCEEDINGS{9756061,  
+author={Khan, Irfan Mabood and Khan, Mohd Maaz and Farooq, Omar},  
+booktitle={2022 5th International Conference on Computing and Informatics (ICCI)},   
+title={Epileptic Seizure Detection using EEG Signals},   
+year={2022},  
+pages={111-117},  
+doi={10.1109/ICCI54321.2022.9756061}}
+}
+```
