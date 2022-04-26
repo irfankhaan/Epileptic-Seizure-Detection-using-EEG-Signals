@@ -13,6 +13,18 @@ The dataset is publicly available [here](https://isip.piconepress.com/projects/t
 * [scikit-learn](https://scikit-learn.org/stable/index.html)
 * [ast](https://docs.python.org/3/library/ast.html)
 
+## Result
+Sensitivity (or Recall), Specificity, Precision, Accuracy, and F<sub>1</sub> Score reported on six machine learning classifiers
+
+Models | Sensitivity (or Recall)| Specificity | Precision | Accuracy | F<sub>1</sub> Score
+---|---|---|---|---|---
+Logistic Regression | 93.39 | 91.16 | 93.30 | 92.43 | 0.9300
+K-Nearest Neighbour | 93.05 | 88.85 | 92.00 | 91.28 | 0.9250
+Decision Tree | 92.06 | 90.04 | 92.52 | 91.20 | 0.9250
+Random Forest | 96.40 | 81.15 | 87.65 | 90.01 | 0.9183
+Support Vector Machine | 93.64 | 91.37 | 93.67 | 92.70 | 0.9400
+Linear Discriminant Analysis | 90.08 | 87.77 | 90.65 | 89.08 | 0.9050
+
 ## Citation
 If you find this work useful, please cite
 
